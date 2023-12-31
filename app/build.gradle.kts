@@ -59,9 +59,6 @@ dependencies {
     implementation ("androidx.camera:camera-lifecycle:1.3.1")
     implementation ("androidx.camera:camera-view:1.3.1")
 
-    // Kotlin Coroutines for asynchronous work
-    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4")
-
     // TensorFlow Lite dependencies
     implementation ("org.tensorflow:tensorflow-lite:2.4.0")
     implementation ("org.tensorflow:tensorflow-lite-gpu:2.4.0")
